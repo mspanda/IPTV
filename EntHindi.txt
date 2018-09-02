@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0, group-title=SONY TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:0, group-title=SONY TV HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:0, group-title=ZEE TV HD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:0, group-title=ZEE TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:0, group-title=SONY WAH
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:0, group-title=& TV HD 
+https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title=& TV 
+https://z5ams.akamaized.net/andtvsd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title=& Pictures 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:0, group-title=& picture HD 
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title=E 24 
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:0, group-title=SONY PAL
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:0, group-title=SONY SAB 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:0, group-title=SONY SAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:0, group-title=DABANGG 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:0, group-title=ANIMAL PLANET Hindi
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:0, group-title=ANIMAL PLANET HD WORLD 
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0, group-title=Living Foodz HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:0, group-title=DISCOVERY Hindi
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:0, group-title=DISCOVERY HD World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0, group-title=DISCOVERY JEET 
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8
+#EXTINF:0, group-title=SONY JEET HD 
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8
+#EXTINF:0, group-title=DISCOVERY SCIENCE 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:0, group-title=DISCOVERY TURBO 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:0, group-title=SONY BBC EARTH HD 
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:0, group-title=SONY BBC EARTH HINDI 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0, group-title=TLC HD WORLD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
