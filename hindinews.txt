@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0, Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, Abhi Tak
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:0, ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:0, ZEE BUSENESS NEWS 
 http://mhms5.airtel.tv/PLTV/88888888/224/3221225930/01.m3u8
 #EXTINF:0, ABP NEWS 
@@ -19,4 +25,12 @@ http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/playlist.m3
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226138/01.m3u8
 #EXTINF:0, Tez
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8
+#EXTINF:0, group-title="News",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0, group-title="Business",NDTV Prime
+https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
+#EXTINF:0, group-title="News",News 18 India
+https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8
+
+
 
