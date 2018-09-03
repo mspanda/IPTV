@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0, AXN
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:0, AXN HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226485/index.m3u8
+#EXTINF:0, DISCOVERY HD WORLD 
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0, ZEE CAFE  
+https://z5ams.akamaized.net/zeecafesd/tracks-v2a1/index.m3u8
+#EXTINF:0, ZEE CAFE HD 
+https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
+#EXTINF:0, FTV.COM 
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:0, FTV Paris 
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
