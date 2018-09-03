@@ -21,4 +21,16 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226263/index.m3u8
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
 #EXTINF:0, ZEE ACTION 
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:0, ,SONY WAH
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:0, Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+#EXTINF:0, Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+#EXTINF:0, Star Utsav Movies
+http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
+#EXTINF:0, group-title="Movies",Star Utsav Movies
+http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
+#EXTINF:0, group-title="Movies",Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
