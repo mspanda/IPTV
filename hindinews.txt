@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0, ZEE BUSENESS NEWS 
+http://mhms5.airtel.tv/PLTV/88888888/224/3221225930/01.m3u8
+#EXTINF:0, ABP NEWS 
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, AAJTAK 
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:0, BANSAL NEWS 
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226216/index.m3u8
+#EXTINF:0, DD INDIA
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8
+#EXTINF:0, DD NATIONAL
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226296/index.m3u8
+#EXTINF:0, INDIA TV NEWS 
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, LIVE TODAY 
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/playlist.m3u8
+#EXTINF:0, NEWS 24 
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226138/01.m3u8
+#EXTINF:0, Tez
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8
+
