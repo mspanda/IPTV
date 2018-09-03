@@ -60,3 +60,6 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226347/index.m3u8
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:0, CVR OM SPIRITUAL
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226403/index.m3u8
+#EXTINF:0, group-title="News",ABN News
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226140/index.m3u8
+
