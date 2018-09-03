@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:0, B4U Movies
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:0, CINEMA TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:0, ENTEER 10 MOVIES
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226218/index.m3u8
+#EXTINF:0, SONY MAX 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:0, SONY MAX HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:0, SONY SET MAX 2 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:0, ZEE CINEMA
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:0, ZEE CINEMA HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0, WOW CINEMA
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226263/index.m3u8
+#EXTINF:0, ZEE CLASIC
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:0, ZEE ACTION 
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8
+
