@@ -9,6 +9,12 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:0, SONY WAH
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:0, Star Plus
+http://103.205.133.43/hls/starplus.m3u8
+#EXTINF:0, STAR PLUS HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:0, Colors HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 #EXTINF:0, & TV HD 
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:0, & TV 
@@ -37,9 +43,11 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
 #EXTINF:0, DISCOVERY HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0, Discovery HD World (Hindi)
+http://mhms10.airtel.tv/PLTV/88888888/224/3221226497/03.m3u8
 #EXTINF:0, DISCOVERY JEET 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8
-#EXTINF:0, SONY JEET HD 
+#EXTINF:0, DISCOVERY JEET HD 
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8
 #EXTINF:0, DISCOVERY SCIENCE 
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8
@@ -51,3 +59,6 @@ http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:0, TLC HD WORLD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:0, group-title="Devotional",Aastha
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8
+
