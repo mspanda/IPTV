@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0, Alankar
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226042/index.m3u8
+#EXTINF:0, DD Odia
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226302/index.m3u8
+#EXTINF:0, News World
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226034/index.m3u8
+#EXTINF:0, OTV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226024/index.m3u8
+#EXTINF:0, OTV 2
+http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
+#EXTINF:0, Prameya News 7
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226410/index.m3u8
+#EXTINF:0, Prathana TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226033/index.m3u8
+#EXTINF:0, Kalinga TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:0, Tarang Music
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226023/index.m3u8
+#EXTINF:0, Tarang TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226032/index.m3u8
+#EXTINF:0, Zee Kalinga News
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:0, Kanak News
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:0, Zee Sarthak
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/index.m3u8
+#EXTINF:0, Dhoom Music
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226369/index.m3u8
+#EXTINF:0, Colors Oriya
+http://139.59.81.43:8000//live/24684/84981981/275.ts|User-Agent=HD-STM/
