@@ -15,4 +15,23 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 #EXTINF:0, Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
+#EXTINF:0, FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0, FTV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:0, group-title="Lifestyle",TLC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:0, group-title="Lifestyle",TLC HD WORLD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:0, group-title="Lifestyle",NDTV GOOD TIMES
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:0, group-title="Lifestyle",FOOD FOOD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:0, group-title="Lifestyle",LIVING FOODZ HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:0, group-title="Lifestyle",TRAVEL XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:0, group-title="Lifestyle",FTV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:0, group-title="Lifestyle",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
